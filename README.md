@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://t.me/Rufa_ell" target="blank"><img src="https://img.shields.io/twitter/follow/Rufa_ell?logo=telegram&style=for-the-badge" alt=Rufa_ell" /></a> </p>
 
 
-- 🎓 I’m currently working on **Studying CS at HiLCoE: School of Computer Science and Technology**
+- 🎓 I’m currentlyn **Studying CS at HiLCoE: School of Computer Science and Technology**
 
 - 🌱 I’m currently learning **Golang**
 
