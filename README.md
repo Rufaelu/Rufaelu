@@ -8,7 +8,7 @@
 
 - 🎓 I’m currently working on **Studying CS at HiLCoE: School of Computer Science and Technology**
 
-- 🌱 I’m currently learning **Web Design and Development 2**
+- 🌱 I’m currently learning **Golang**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
