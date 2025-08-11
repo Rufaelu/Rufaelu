@@ -1,42 +1,80 @@
-<h1 align="center">Hi 👋, I'm Rufael Melese</h1>
-<h3 align="center">A Programmer from Ethiopia, Addis Ababa</h3>
+# Hi there 👋, I'm Rufaelu!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rufaelu&label=Profile%20views&color=0e75b6&style=flat" alt="rufaelu" /> </p>
+🎓 **3rd Year CS Student** at [HiLCoE School of Computer Science and Technology]  
+💡 **Aspiring Golang & Python Developer**
 
-<p align="left"> <a href="https://t.me/Rufa_ell" target="blank"><img src="https://img.shields.io/twitter/follow/Rufa_ell?logo=telegram&style=for-the-badge" alt=Rufa_ell" /></a> </p>
+---
 
+## 🚀 About Me
 
-- 🎓 I’m currentlyn **Studying CS at HiLCoE: School of Computer Science and Technology**
+- 🏫 Currently a 3rd year student at HiLCoE
+- 💻 Passionate about backend and full-stack development
+- 🔥 Favorite language: **Golang**
+- 🌱 Currently learning:
+  - Golang
+  - Python
+  - React
+  - MongoDB
 
-- 🌱 I’m currently learning **Golang**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rufael-melese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rufael-melese" height="30" width="40" /></a>
-<a href="https://dev.to/rufael_melese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rufael_melese" height="30" width="40" /></a>
-<a href="https://twitter.com/niamraf12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niamraf12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rufael-melese-6b0047299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rufael-melese-6b0047299" height="30" width="40" /></a>
-<a href="https://instagram.com/r_u_fa_e_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_u_fa_e_l" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rufael_melese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rufael_melese" height="30" width="40" /></a>
+- **Languages:**  
+  ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
+- **Frameworks & Databases:**  
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+---
+
+## 🌟 Projects
+
+- **[Men's Cloth Store Management System](https://github.com/Rufaelu/final-project-store-management-the-real-one)** (C#)  
+  _A desktop app to manage inventory, sales, and customer data for a men's clothing store._
+
+- **[Guest House Management System (GUI)](https://github.com/Rufaelu/GuestHouse-GUI)** (C#)  
+  _A graphical application for booking, guest tracking, and resource management for guest houses._
+
+- **[Guest House Management System (CLI)](https://github.com/Rufaelu/GuestHouse)** (C#)  
+  _A command-line tool for guest house operations and management._
+
+---
+
+## 📊 GitHub Stats & Fun Visuals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rufaelu&show_icons=true&theme=tokyonight" alt="Rufaelu's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rufaelu&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufaelu&layout=compact&theme=tokyonight" alt="Top Languages" height="120"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> &nbsp <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> &nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rufaelu&show_icons=true&locale=en&layout=compact" alt="rufaelu" /></p>
+## 🏆 Fun Badges
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufaelu&" alt="rufaelu" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rufaelu&theme=tokyonight&row=1&column=6" alt="Trophies" />
+</p>
 
+---
 
+## 🤝 Let's Connect
 
+- [LinkedIn](https://www.linkedin.com/in/rufael-melese-6b0047299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Telegram](https://t.me/Rufael_melese)
 
+---
 
+## ⚡ Fun Fact
 
-
-
-
-###
+> I started taking programming seriously not too long ago, and I'm loving the journey so far!
