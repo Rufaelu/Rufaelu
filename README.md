@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🏫 Currently a 3rd year student at HiLCoE
+- 🏫 Currently a 4th year student at HiLCoE
 - 💻 Passionate about backend and full-stack development
 - 🔥 Favorite language: **Golang**
 - 🌱 Currently learning:
