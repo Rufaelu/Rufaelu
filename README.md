@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Rufaelu!
 
 🎓 **3rd Year CS Student** at [HiLCoE School of Computer Science and Technology]  
-💡 **Aspiring Golang & Python Developer**
+💡 **Aspiring Golang Developer**
 
 ---
 
