@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rufaelu!
+# Hi there 👋, I'm Rufael!
 
 🎓 **4th Year CS Student** at [HiLCoE School of Computer Science and Technology]  
 💡 **Aspiring Golang Developer**
